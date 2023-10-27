@@ -1,7 +1,6 @@
 # central-bank
 
-Olá! Eu sou o Danrlei Souza criado desse cardápil para o bar e restaurante States Boteco uma referencia no bairro de pau amarelo, janga e regiões
-espero que gostem do conteudo e venham programar comigo <3 
+Olá Sejam bem-vindos ao sistema POO bancário.
 
 ## Conecte-se Comigo Danrlei Souza
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/danrleisnob)
@@ -12,16 +11,14 @@ espero que gostem do conteudo e venham programar comigo <3
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/souzadanrlei/)
 
 ## Habilidades
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red)](https://git-scm.com/doc)
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+<div>
+  <img align="center" alt="Danrlei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 ## Framework
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+<div>
+  <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
+</div>
 
 
 ## GitHub Stats
